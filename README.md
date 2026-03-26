@@ -16,7 +16,6 @@ Built entirely in the Wokwi simulator.
 - PWM output on LED
 
 ## 📷 Screenshot
-_Add screenshot from Wokwi here if needed._
 
 ## 🔗 Live Simulation
 [Run it on Wokwi](https://wokwi.com/projects/380376011074147329)
